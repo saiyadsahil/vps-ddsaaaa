@@ -1,0 +1,134 @@
+UserID: 1194649316 | Time: 2024-12-11 16:44:06.486644 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 180
+UserID: 1194649316 | Time: 2024-12-11 16:44:34.327452 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 180
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 180
+
+UserID: 1194649316 | Time: 2024-12-11 16:44:55.959341 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 180
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 180
+
+UserID: 1194649316 | Time: 2024-12-11 16:45:08.037800 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 180
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 180
+
+UserID: 1194649316 | Time: 2024-12-11 16:45:15.223083 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 60
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 60
+
+UserID: 1194649316 | Time: 2024-12-11 16:45:54.875954 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 180
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 180
+
+UserID: 1194649316 | Time: 2024-12-11 16:46:07.420347 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 300
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 300
+
+UserID: 1194649316 | Time: 2024-12-11 16:46:34.295126 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 300
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 300
+
+UserID: 1194649316 | Time: 2024-12-11 16:48:20.657777 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 60
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 60
+
+UserID: 1194649316 | Time: 2024-12-11 16:49:13.912244 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 300
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 300
+
+UserID: 1194649316 | Time: 2024-12-11 16:51:03.931894 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 300
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 300
+
+UserID: 1194649316 | Time: 2024-12-11 17:01:25.761082 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 300
+UserID: 1194649316 | Time: 2024-12-11 17:01:31.594763 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 300
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 300
+
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 300
+
+UserID: 1194649316 | Time: 2024-12-11 17:03:25.459972 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 300
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 300
+
+UserID: 1194649316 | Time: 2024-12-11 17:03:45.149305 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 300
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 300
+
+UserID: 1194649316 | Time: 2024-12-11 17:04:15.151832 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 60
+UserID: 1194649316 | Time: 2024-12-11 17:06:18.186045 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 300
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 300
+
+UserID: 1194649316 | Time: 2024-12-11 17:06:28.347895 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 60
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 60
+
+UserID: 1194649316 | Time: 2024-12-11 17:06:34.402693 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 60
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 60
+
+UserID: 1194649316 | Time: 2024-12-11 17:06:37.006512 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 60
+UserID: 1194649316 | Time: 2024-12-11 17:06:40.221724 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 60
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 60
+
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 60
+
+UserID: 1194649316 | Time: 2024-12-11 17:07:12.090639 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 60
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 60
+
+UserID: 1194649316 | Time: 2024-12-11 17:08:53.097432 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 60
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 60
+
+UserID: 1194649316 | Time: 2024-12-11 17:10:03.156453 | Command: /bgmi | Target: 20.198.79.107 | Port: 27539 | Time: 60
+Username: @CRxSOMTINOG
+Target: 20.198.79.107
+Port: 27539
+Time: 60
+
